@@ -84,3 +84,8 @@ D:\411018947 鐘梓菱\Web411018947\Web411018947\obj\Debug\Web411018947.csproj.C
 D:\411018947 鐘梓菱\Web411018947\Web411018947\obj\Debug\Web411018947.csproj.CopyComplete
 D:\411018947 鐘梓菱\Web411018947\Web411018947\obj\Debug\Web411018947.dll
 D:\411018947 鐘梓菱\Web411018947\Web411018947\obj\Debug\Web411018947.pdb
+D:\411018947 鐘梓菱\Web411018947\Web411018947\bin\EntityFramework.dll
+D:\411018947 鐘梓菱\Web411018947\Web411018947\bin\EntityFramework.SqlServer.dll
+D:\411018947 鐘梓菱\Web411018947\Web411018947\bin\EntityFramework.xml
+D:\411018947 鐘梓菱\Web411018947\Web411018947\bin\EntityFramework.SqlServer.xml
+D:\411018947 鐘梓菱\Web411018947\Web411018947\bin\zh-Hant\EntityFramework.resources.dll
