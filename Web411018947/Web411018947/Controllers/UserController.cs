@@ -13,6 +13,18 @@ namespace Web411018947.Controllers
         
         {
             var result = "";
+            if (number.HasValue)
+            {
+                if (number.Value == 1)
+                {
+                    Console.WriteLine("do");
+                }
+                
+            }
+            else
+            {
+                Console.WriteLine("錯誤");
+            }
         
             ViewBag.Name = name;
             ViewBag.Number = number;
